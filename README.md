@@ -1,11 +1,11 @@
 ## ReactJobly Frontend
-ReactJobly Frontend is the client-side application for the ReactJobly project, a job board platform where users can search for companies and jobs, apply for positions, and manage their profiles. This frontend is built with React.js and interacts with the ReactJobly Backend to provide a seamless user experience.
+ReactJobly Frontend is the client-side application for the ReactJobly project, a job board platform seeded with fictional jobs where users can search for companies and jobs, apply for positions, and manage their profiles. This frontend is built with React.js and interacts with the ReactJobly Backend to provide a seamless user experience.
 
 
 ### Why I Created This Application:
 In today’s rapidly evolving job market, finding the right job can be a daunting task. According to the U.S. Bureau of Labor Statistics, the average person changes jobs 12 times during their career. Job boards have become essential tools for job seekers, with over 60% of job seekers using online platforms to find new opportunities.
 
-I created ReactJobly to address the challenges faced by job seekers in navigating the overwhelming number of job postings and companies. By building a user-friendly and efficient job board application, I aimed to simplify the job search process, allowing users to focus on finding the best fit for their skills and career aspirations. This project also served as an opportunity to deepen my understanding of full-stack development and to contribute to the community by providing an open-source solution.
+I created ReactJobly to simulate the creation of a job board that is populated with seeded data. By building a user-friendly and efficient job board application, I aimed to simplify the job search process, allowing users to focus on finding the best fit for their skills and career aspirations. This project also served as an opportunity to deepen my understanding of full-stack development and to contribute to the community by providing an open-source solution. In the future, I aim to implement an actual job board API to utilize real time job listings and direct access to applications. 
 
 
 
